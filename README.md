@@ -54,47 +54,47 @@ Solve questions which are given by MR. Haryali
 
 ## OVERVIEW   
 
+![Screenshot 2024-06-20 144756](https://github.com/SANAKHAN2211/The-Elections-analysis-2019-2014/assets/153427538/d0a9b2b2-aa25-46f0-9253-9fa1fa69287a)
 
-
-![Screenshot 2024-06-20 144756](https://github.com/SANAKHAN2211/Lok-Sabha-election-2014-2019/assets/153427538/053c8077-25a0-48ca-92b8-dba7d0a0754d)
 
 
 
 ## VOTER
+![voter](https://github.com/SANAKHAN2211/The-Elections-analysis-2019-2014/assets/153427538/d8388de6-1e86-4796-9c1f-98779230f9e7)
 
 
-![voter](https://github.com/SANAKHAN2211/Lok-Sabha-election-2014-2019/assets/153427538/902cc744-264c-4a93-8030-0fd185bc2fd0)
 
 
 
 ## CONSTITUENCY
+![constituency](https://github.com/SANAKHAN2211/The-Elections-analysis-2019-2014/assets/153427538/bf06e155-a31d-438d-a16a-a0272b462759)
 
-![constituency](https://github.com/SANAKHAN2211/Lok-Sabha-election-2014-2019/assets/153427538/5fe6c495-d08a-42a1-87ee-b0eed8a993ea)
 
 
 
 ## PARTY
-![party](https://github.com/SANAKHAN2211/Lok-Sabha-election-2014-2019/assets/153427538/0a2adc1b-8915-479d-b2de-2e05eab22b5b)
-
+![party](https://github.com/SANAKHAN2211/The-Elections-analysis-2019-2014/assets/153427538/a6613205-18fa-4b8f-9e43-af1399ab7198)
 
 
 
 ## CANDIDATE
-![candidate](https://github.com/SANAKHAN2211/Lok-Sabha-election-2014-2019/assets/153427538/a0676b3a-b0b8-40de-8d05-9630a273a4fb)
+![candidate](https://github.com/SANAKHAN2211/The-Elections-analysis-2019-2014/assets/153427538/eac036b2-aff1-41ae-a589-4ce01d8b5482)
 
 
 
 
 ## CO RELATION
+![correlation](https://github.com/SANAKHAN2211/The-Elections-analysis-2019-2014/assets/153427538/dd4b3126-f52d-4ada-b887-add8c1fece90)
 
-![correlation](https://github.com/SANAKHAN2211/Lok-Sabha-election-2014-2019/assets/153427538/250dc239-f103-449f-aa32-ce905f3b6ed1)
+
 
 
 
 ## EXIT POLL
 
-![exit poll](https://github.com/SANAKHAN2211/Lok-Sabha-election-2014-2019/assets/153427538/3c419694-85f4-4dff-a169-b9ad70c871af)
 
+
+![exit poll](https://github.com/SANAKHAN2211/The-Elections-analysis-2019-2014/assets/153427538/a3adbdcc-1836-4491-81fb-f28748aefc75)
 
 
 
